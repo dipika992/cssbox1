@@ -1,0 +1,45 @@
+#rectangle{
+    background-color: orange;
+    padding-left: 80px;
+    text-align: center;
+    height: 600px;
+    width: 1000px;
+    margin-left: 225px;
+}
+h1{
+    margin-left: 225px;
+}
+#white{
+    background-color: white;
+    padding-left: 80px;
+    text-align: center;
+    height: 400px;
+    width: 800px;
+    margin-left: 324px;
+    margin-top: -33%;
+}
+#blacka{
+    background-color: black;
+    padding-top: 0%;
+    height: 45px;
+    width:200px;
+    margin-left: 45%;
+    margin-top: -20%;
+    color: rgb(200, 133, 133);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+#blackb{
+    background-color: black;
+    padding-top: 0%;
+    height: 45px;
+    width:255px;
+    margin-left: 43.3%;
+    margin-top: 5%;
+    color: rgb(195, 120, 120);
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+
+}
